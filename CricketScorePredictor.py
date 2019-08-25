@@ -10,7 +10,6 @@ from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import LinearRegression
 from sklearn.ensemble import RandomForestRegressor
 import numpy as np
-git init
 
 def custom_accuracy(y_test,y_pred,thresold):
     right = 0
